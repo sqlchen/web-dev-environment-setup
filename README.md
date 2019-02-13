@@ -17,3 +17,14 @@
 - n: Dead easy to tool to switch between versions of Node quickly, without having to remember the specific version number. Unfortunately, it only works on macOS/Linux.
 - http-server: Simple, zero-configuration command-line HTTP server, which is a great way to locally test static HTML/CSS pages or even the dist folder of your Angular or React project.
 - npm-windows-upgrade: Necessary to upgrade npm on Windows.
+
+## vscode extensions
+- johnpapa.angular-essentials
+- PKief.material-icon-theme
+- formulahendry.auto-close-tag
+- PeterJausovec.vscode-docker
+- eamodio.gitlens
+- WallabyJs.quokka-vscode
+- rbbit.typescript-hero
+- DSKWRK.vscode-generate-getter-setter
+- esbenp.prettier-vscode
